@@ -1,0 +1,20 @@
+pwd – shows current directory
+ls – lists files and folders
+cd – changes directory
+mkdir – creates a folder
+touch – creates a file
+rm – deletes files
+cp – copies files
+mv – moves or renames files
+cat – displays file content
+nano – edits files
+vim – advanced file editor
+chmod – changes permissions
+chown – changes ownership
+whoami – shows current user
+id – shows user details
+ps – shows running processes
+top – system usage
+ping – checks network
+curl – fetches data from URL
+git status – shows git status
